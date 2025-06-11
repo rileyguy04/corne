@@ -36,7 +36,7 @@
 
             bindings = <
 &kp ESC    &kp EXCL        &kp AT        &kp POUND  &kp DLLR          &kp PRCNT        &kp CARET  &kp AMPS   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp KP_MULTIPLY  &kp DELETE
-&kp LSHFT  &kp LEFT_ARROW  &kp UP_ARROW  &kp DOWN   &kp LEFT          &kp QMARK        &kp MINUS  &kp EQUAL  &kp LBKT              &kp RBKT               &kp BSLH         &kp GRAVE
+&kp LSHFT  &kp LEFT_ARROW  &kp UP_ARROW  &kp DOWN   &kp RIGHT         &kp QMARK        &kp MINUS  &kp EQUAL  &kp LBKT              &kp RBKT               &kp BSLH         &kp GRAVE
 &kp LCTRL  &trans          &trans        &kp LT     &kp GREATER_THAN  &kp SEMICOLON    &kp UNDER  &kp PLUS   &kp LBRC              &kp RBRC               &kp PIPE         &kp TILDE
                                          &kp N0     &mo 3             &kp SPACE        &kp RET    &trans     &kp RALT
             >;
